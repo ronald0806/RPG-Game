@@ -1,5 +1,5 @@
 #Ronald Chatelier
-#A turn based Role Playing Game (RPG) by using text
+#A turn-based Role-Playing Game (RPG) by using text
 #Sources: W3Schools, Python Fiddle, Class, and Professor
 #Links: https://www.w3schools.com/ , https://snakify.org/ , http://pythonfiddle.com/
 
