@@ -2,10 +2,6 @@
 
 This is a project where you will type your way through an RPG. 
 
-## Getting Started
-
-Start with the TemplateWithInfo then copy the TitleOnlyTemplate.   
-
 ## Software
 
 PyCharm 2019.3.4
