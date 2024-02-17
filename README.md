@@ -1,6 +1,6 @@
 # Ronald Chatelier's RPG Project
 
-This is a project where you will type your way through an RPG. 
+This is a project for my COP 1500 course where you will type your way through an RPG. 
 
 ## Software
 
